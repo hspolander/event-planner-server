@@ -1,0 +1,8 @@
+{
+	"database": { 
+		"host": "localhost",
+	    "user": "event_user",
+	    "password": "Alkaline#Na2CO3",
+	    "database": "event_planner"
+	}
+}
