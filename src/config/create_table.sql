@@ -13,7 +13,7 @@ CREATE TABLE `events` (
 CREATE TABLE `event_dates` (
   `id` int(5) NOT NULL AUTO_INCREMENT,
   `fk_event_id` int(5) NOT NULL,
-  `date` date NOT NULL,
+  `date` datetime NOT NULL,
   PRIMARY KEY (`id`),
   KEY `FK_token_event_id` (`fk_event_id`),
   CONSTRAINT `FK_token_event_id`
