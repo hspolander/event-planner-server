@@ -12,7 +12,7 @@
     "babel-core": "^6.26.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-airbnb": "^2.4.0",
-    "moment": "^2.19.3",
+    "moment": "^2.29.4",
     "mysql2": "^2.1.0",
     "node-fetch": "^2.2.0",
     "restify": "^8.5.1"
